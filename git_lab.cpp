@@ -26,5 +26,6 @@ int main()
     cout<<"Product is: "<<sum;
     cout<<"This is parallelism?"<<endl;
     cout<<"conflict no. 2 ";
+    cout<<"commit 1";
     return 0;
 }
