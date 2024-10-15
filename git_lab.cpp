@@ -24,5 +24,6 @@ int main()
         sum+=(v1[i]*v2[i]);
     }
     cout<<"Product is: "<<sum;
+    cout<<"This is parallelism?"<<endl;
     return 0;
 }
