@@ -5,4 +5,6 @@ int main()
     cout<<"Vector product";
     return 0;
     cout<<"hello0";
+    cout<<"bye"<<endl;
+    
 }
